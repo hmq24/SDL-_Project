@@ -11,4 +11,4 @@ Tên game: Tetris.
   
   
   
-                                                                                                               Game by 22028300
+                                    Game by 22028300
